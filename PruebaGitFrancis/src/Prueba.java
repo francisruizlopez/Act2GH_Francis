@@ -13,7 +13,6 @@ public class Prueba {
 	
 	void metodoRama2() {
 		
->>>>>>> refs/heads/rama1
 	}
 
 }
