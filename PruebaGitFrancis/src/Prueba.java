@@ -9,5 +9,9 @@ public class Prueba {
 	void metodoRama1() {
 		
 	}
+	
+	void metodoRama2() {
+		
+	}
 
 }
